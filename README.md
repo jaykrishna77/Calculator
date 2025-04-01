@@ -21,7 +21,11 @@ I tried building a basic calculator to improve my skills in **HTML, CSS, and Jav
 
    
 
-## Screenshots  
-Below are some screenshots of the calculator in action.  
-Feel free to check it out and suggest improvements! 😊🚀  
+## Screenshot 
+Below is a screenshot of the calculator.  
+
+![Calculator Screenshot](image_1.png)
+
+Feel free to check it out and suggest improvements! 😊🚀
+
 
